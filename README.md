@@ -33,6 +33,9 @@ python -m venv venv  # creating a virtual environment
 source venv/bin/activate  # running venv on Linux / macOS
 venv\Scripts\activate  # running venv on Windows
 pip install -r requirements.txt  # install required dependencies
+
+cd files_python
+python main.py
 ```
 
 ***
