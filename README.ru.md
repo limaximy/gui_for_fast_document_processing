@@ -33,6 +33,9 @@ python -m venv venv  # создание виртуального окружен�
 source venv/bin/activate  # запуск venv на Linux / macOS
 venv\Scripts\activate  # запуск venv на Windows
 pip install -r requirements.txt  # установка требуемых зависимостей
+
+cd files_python
+python main.py
 ```
 
 ***
